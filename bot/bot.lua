@@ -249,6 +249,7 @@ function create_config( )
       "text",
       "wiki",
       "loc",
+      "slm",
       "gps",
       "time",
       "webshot",
