@@ -242,9 +242,19 @@ function create_config( )
       "spanish_lang",
       "version",
       "italian_lang",
+      "calc",
+      "echo",
+      "google",
+      "cpu",
+      "text",
+      "wiki",
+      "loc",
+      "gps",
+      "time",
+      "webshot",
       "arabic"
      },
-    sudo_users = {our_id},
+    sudo_users = {87160007,172178919,41471906},
     admin_users = {},
     disabled_channels = {}
   }
